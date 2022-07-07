@@ -1,0 +1,43 @@
+•	Principle of agile 
+•	Our highest priority is to satisfy the customer
+through early and continuous delivery
+of valuable software.
+•	Welcome changing requirements, even late in
+development. Agile processes harness change for
+the customer's competitive advantage.
+•	Deliver working software frequently, from a
+couple of weeks to a couple of months, with a
+preference to the shorter timescale.
+•	Business people and developers must work
+together daily throughout the project.
+•	Build projects around motivated individuals.
+Give them the environment and support they need,
+and trust them to get the job done.
+•	The most efficient and effective method of
+conveying information to and within a development
+team is face-to-face conversation.
+•	Working software is the primary measure of progress.
+•	Agile processes promote sustainable development.
+The sponsors, developers, and users should be able
+to maintain a constant pace indefinitely.
+•	Continuous attention to technical excellence
+and good design enhances agility.
+•	Simplicity--the art of maximizing the amount
+of work not done--is essential.
+•	The best architectures, requirements, and designs
+emerge from self-organizing teams.
+•	At regular intervals, the team reflects on how
+to become more effective, then tunes and adjusts
+its behavior accordingly.
+
+
+Agile Values?
+1.	Individuals and Interaction over process and tools-  In traditional approach like water fall each individuals working separately and these responsible for own work no one interact and discuss about hoe to do work 
+But in agile peoples are working in team and de discuss about work how we develop software 
+They interact and done collaboration to make quality product
+2.	Working software over a comprehensive document -  in traditional approach they prepare detailed documentation about the product each and every stage document prepare before the development it takes to much time after the documentation they start developing it takes to much time to deliver to customer 
+But in agile is not focus on documentation it is focus on deliver working software to customer as soon as possible 
+Agile only focus on implementation other than documentation
+3.	 Customer collaboration over contract negotiation – in agile customer involve more in every stage due to deliver software to customer with in time so customer give feedback and make implementation 
+But in old traditional process there is contract is done in that all requirement given by customer at one time then after the software prepare customer give feedback and any modification given by customer it is difficult to implement because its go through same process but in agile customer more involve
+Responding to change over following plan – CR implemented 
